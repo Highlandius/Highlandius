@@ -1,4 +1,4 @@
-## Break. Build. Learn.
+## My Methodology
 I am a current Computer Science student from Colorado, graduating Spring 2027. I'm also working towards a Cybersecurity certificate alongside my degree, and spend a lot of time building things in my spare time.
 
 ## What I work with
