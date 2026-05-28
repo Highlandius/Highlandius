@@ -13,7 +13,7 @@ I am a current Computer Science student from Colorado, graduating Spring 2027. I
 - 💻 Brushing up and pushing more projects here as I go
 
   ## Featured
-- **[Trivia Play](https://github.com/Highlandius/TriviaPlay)**- LAN trivia system built with a 5-person Agile team. Real-time WebSockets, no app or account required. I served as project manager and developer.
+- **[Trivia Play](https://github.com/Highlandius/TriviaPlay)** - LAN trivia system built with a 5-person Agile team. Real-time WebSockets, no app or account required. I served as project manager and developer.
 
 ---
 *"My name is Ozymandias, King of Kings;
